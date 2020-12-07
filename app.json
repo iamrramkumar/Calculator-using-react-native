@@ -1,0 +1,12 @@
+{
+  "name": "CurneuCalculator",
+  "displayName": "CurneuCalculator",
+  "expo": {
+    "name": "CurneuCalculator",
+    "slug": "CurneuCalculator",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
